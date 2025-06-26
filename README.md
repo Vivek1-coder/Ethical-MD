@@ -9,7 +9,7 @@ Depending on what you're working on, please refer to the appropriate README:
 The frontend is built using **Next.js**, **Nodejs**,**Expressjs**,**JavaScript**, **Tailwind CSS**, and **Shadcn**.  
 The backend is built using  **Nodejs**,**Expressjs**,**JavaScript**, **GeminiApi**, and **MongoDb**.  
 If you're working on the client-side application, [go to the frontend README](./frontend/tutedude-front/README.md).
-If you're working on the server-side application, [go to the frontend README](./backend/MedXplain/README.md).
+If you're working on the server-side application, [go to the backend README](./backend/MedXplain/README.md).
 
 ```bash
 EthicalMD/
