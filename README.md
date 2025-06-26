@@ -2,13 +2,12 @@
 
 Welcome to the **Ethical-MD** project repository! This monorepo contains both the **frontend/tutedude-front** and **backend/MedXplain-backend** codebases for our full-stack platform.
 
-## 🧭 Navigation
-
 Depending on what you're working on, please refer to the appropriate README:
 
-### ➤ Frontend
+### ➤ Repository
 
 The frontend is built using **Next.js**, **Nodejs**,**Expressjs**,**JavaScript**, **Tailwind CSS**, and **Shadcn**.  
+The frontend is built using  **Nodejs**,**Expressjs**,**JavaScript**, **GeminiApi**, and **MongoDb**.  
 If you're working on the client-side application, [go to the frontend README](./frontend/tutedude-front/README.md).
 If you're working on the server-side application, [go to the frontend README](./backend/MedXplain/README.md).
 
